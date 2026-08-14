@@ -53,6 +53,10 @@ PRODUCT_COPY_FILES += \
     vendor/lge/mako/proprietary/vendor/lib/egl/libGLESv2_adreno.so:$(TARGET_COPY_OUT_VENDOR)/lib/egl/libGLESv2_adreno.so \
     vendor/lge/mako/proprietary/vendor/lib/egl/libq3dtools_adreno.so:$(TARGET_COPY_OUT_VENDOR)/lib/egl/libq3dtools_adreno.so \
     vendor/lge/mako/proprietary/vendor/lib/hw/flp.msm8960.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/flp.msm8960.so \
+    vendor/lge/mako/proprietary/lib/hw/gps.msm8960.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/gps.msm8960.so \
+    vendor/lge/mako/proprietary/lib/libgps.utils.so:$(TARGET_COPY_OUT_VENDOR)/lib/libgps.utils.so \
+    vendor/lge/mako/proprietary/lib/libloc_core.so:$(TARGET_COPY_OUT_VENDOR)/lib/libloc_core.so \
+    vendor/lge/mako/proprietary/lib/libloc_eng.so:$(TARGET_COPY_OUT_VENDOR)/lib/libloc_eng.so \
     vendor/lge/mako/proprietary/vendor/lib/libAKM.so:$(TARGET_COPY_OUT_VENDOR)/lib/libAKM.so \
     vendor/lge/mako/proprietary/vendor/lib/libCB.so:$(TARGET_COPY_OUT_VENDOR)/lib/libCB.so \
     vendor/lge/mako/proprietary/vendor/lib/libQSEEComAPI.so:$(TARGET_COPY_OUT_VENDOR)/lib/libQSEEComAPI.so \
